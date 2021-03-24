@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanchoNetEntityFramework", "LanchoNetEntityFramework\LanchoNetEntityFramework.csproj", "{FAED2548-A35E-49FB-BF52-C1084127CF72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAED2548-A35E-49FB-BF52-C1084127CF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAED2548-A35E-49FB-BF52-C1084127CF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAED2548-A35E-49FB-BF52-C1084127CF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAED2548-A35E-49FB-BF52-C1084127CF72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {235E6210-C3EC-45AF-B8F0-357FC24818C2}
+	EndGlobalSection
+EndGlobal
